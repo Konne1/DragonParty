@@ -1,0 +1,23 @@
+﻿  playground.cpp
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(48,3): warning C4551: function call missing argument list
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(133,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(150,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(192,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(234,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(282,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(303,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(304,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(308,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(309,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(310,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(311,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(408,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(445,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(463,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(482,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(483,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(505,58): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(535,61): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(565,61): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp(596,61): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  playground.vcxproj -> C:\HS-Ulm\CG\3D_Projekt\bin\Debug\playground.exe

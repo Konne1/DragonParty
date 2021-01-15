@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\parse_stl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\playground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\playground\parse_stl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\src\OpenGL-Template-master\playground\vertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\src\OpenGL-Template-master\playground\fragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9E5F870F-A907-3D3C-AB27-EB68EC4E704F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{269A84CE-C140-39D5-97D0-06DEB77474A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{DED5820C-9B42-3BAC-B4F4-44F6A7465F85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{3A776029-0735-3FC0-BE58-BBC9AA6CB988}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

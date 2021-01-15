@@ -1,0 +1,10 @@
+^C:\HS-ULM\CG\3D_PROJEKT\BIN\CMAKEFILES\AAE10581ECEE2FC31232B90FAF7CD6DE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/HS-Ulm/CG/3D_Projekt/src/OpenGL-Template-master -BC:/HS-Ulm/CG/3D_Projekt/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/HS-Ulm/CG/3D_Projekt/bin/OpenGL-Template.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

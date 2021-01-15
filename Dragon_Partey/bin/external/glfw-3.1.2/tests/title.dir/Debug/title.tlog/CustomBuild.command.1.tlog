@@ -1,0 +1,10 @@
+^C:\HS-ULM\CG\3D_PROJEKT\SRC\OPENGL-TEMPLATE-MASTER\EXTERNAL\GLFW-3.1.2\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/HS-Ulm/CG/3D_Projekt/src/OpenGL-Template-master -BC:/HS-Ulm/CG/3D_Projekt/bin --check-stamp-file C:/HS-Ulm/CG/3D_Projekt/bin/external/glfw-3.1.2/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

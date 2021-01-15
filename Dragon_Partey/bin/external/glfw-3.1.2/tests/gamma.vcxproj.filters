@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\external\glfw-3.1.2\tests\gamma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\external\glfw-3.1.2\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\external\glfw-3.1.2\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\external\glfw-3.1.2\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9E5F870F-A907-3D3C-AB27-EB68EC4E704F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{269A84CE-C140-39D5-97D0-06DEB77474A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

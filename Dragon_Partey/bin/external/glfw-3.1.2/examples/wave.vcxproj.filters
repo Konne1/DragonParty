@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\external\glfw-3.1.2\examples\wave.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\HS-Ulm\CG\3D_Projekt\src\OpenGL-Template-master\external\glfw-3.1.2\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{269A84CE-C140-39D5-97D0-06DEB77474A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
