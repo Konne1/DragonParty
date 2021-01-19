@@ -59,8 +59,8 @@ add_executable(playground
 	playground/playground.h
 	playground/parse_stl.cpp
 	playground/parse_stl.h
-	playground/SimpleFragmentShader.fragmentshader
-	playground/SimpleVertexShader.vertexshader
+	playground/fragmentShader.fragmentshader
+	playground/vertexShader.vertexshader
 	common/shader.cpp
 	common/shader.hpp
 )
